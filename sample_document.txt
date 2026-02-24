@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is a field of computer science 
+that focuses on building intelligent systems.
+
+Machine Learning is a subset of AI that allows systems 
+to learn from data and improve over time.
+
+Large Language Models (LLMs) are advanced AI systems 
+trained on massive text datasets to generate human-like responses.
